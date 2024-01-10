@@ -2,8 +2,6 @@
 Eu sou João Pedro, um aprendiz da tecnologia e empolgado para transformar ideias em código. Atualmente, estou trabalhando na diretoria de TI do IFB e estudando no IFB - Instituto Federal de Brasília.
 
 
-💻 Sobre Mim
-
 🎓 Estou no 4º semestre de Sistemas para Internet
 
 💼 Hoje sou estagiário de desenvolvimento de sistemas na diretoria de TI do IFB mas estou a procura de uma nova vaga no mercado como junior
