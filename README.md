@@ -48,4 +48,3 @@ Here are some ideas to get you started:
   <a href="https://instagram.com/jpnunes222" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/joao2206/joao2206/blob/output/github-contribution-grid-snake.svg)
