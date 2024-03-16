@@ -4,7 +4,7 @@ Eu sou João Pedro, um aprendiz da tecnologia e empolgado para transformar ideia
 
 🎓 Estou no 4º semestre de Sistemas para Internet
 
-💼 Hoje sou estagiário de desenvolvimento de sistemas na diretoria de TI do IFB mas estou a procura de uma nova vaga no mercado como junior
+💼 Estagiário de desenvolvimento de sistemas na diretoria de TI do IFB e estou a procura de uma nova vaga no mercado como junior
 
 🌱 Estou me aperfeiçoando nessas tecnologias:
 
