@@ -10,7 +10,6 @@ Eu sou João Pedro, um aprendiz da tecnologia e empolgado para transformar ideia
 
 <div>
   <img align="center" alt="Joao-DEBIAN" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">
-  <img align="center" alt="Joao-PHP" heigth="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg">
   <img align="center" alt="Joao-MYSQL" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Joao-PG" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="Joao-RUBY" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
@@ -30,7 +29,7 @@ Esse é meu portfólio:
 
 <div style="display: inline_block"><br>
 
-  Trago uma carga de experiências e vou atualizar meus projetos, você pode me acompanhar aqui:
+  Atualmente colaboro mais em projetos de repositórios corporativos (e.g. Gitlab) mas sempre que possível vou estar atualizando aqui:
   
   <div>
     <a href="https://github.com/joao2206">
