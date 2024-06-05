@@ -1,5 +1,5 @@
 ### Olá Mundo! 👋
-Eu sou João Pedro, um aprendiz da tecnologia e empolgado para transformar ideias em código. Atualmente, estou trabalhando na diretoria de TI do IFB e estudando no IFB - Instituto Federal de Brasília.
+Eu sou João Pedro, um aprendiz da tecnologia e empolgado para transformar ideias em código. Atualmente, estou trabalhando em dois lugares, na Topocart e na diretoria de TI do IFB. Estou estudando no IFB - Instituto Federal de Brasília com previsão de conclusão até o primeiro semestre de 2025.
 
 
 🎓 Estou no 4º semestre de Sistemas para Internet
